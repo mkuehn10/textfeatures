@@ -254,7 +254,7 @@ prepositions <- function(x) {
 #' }
 #'
 #' @export
-#' @format Named list of all ferature counting functions
+#' @format Named list of all feature counting functions
 #' \describe{
 #' \item{\code{n_words}}{Number of words.}
 #' \item{\code{n_uq_words}}{Number of unique words.}
